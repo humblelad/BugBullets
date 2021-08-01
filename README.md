@@ -1,6 +1,7 @@
 # BugBullets
 <img src="https://raw.githubusercontent.com/humblelad/BugBullets/main/bugbullet.png" width="200" height="200">
-## An Ammo store containing &lt; 100 words summary of security blogs/articles related to application security, bug bounties and all things security :P  
+
+### An Ammo store containing &lt; 100 words summary of security blogs/articles related to application security, bug bounties and all things security :P  
 
 Bug Bullet | Title
 --- | ---
