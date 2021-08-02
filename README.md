@@ -9,6 +9,7 @@ Bug Bullet | Title
 **2** |  [Stealing SSO Login Tokens (snappublisher.snapchat.com) by @HivarekarPranav](/bullets/2.md)
 **3** |  [RCE via Internal Access to Adminer Database Management by @CybitSec](/bullets/3.md)
 **4** |  [Facebook Email/phone disclosure using Binary search by NotRickyy](bullets/4.md)
+**5** |  [Multi Domain DOM Cross Site Scripting by @caffeinevulns](bullets/5.md)
 
 
 
