@@ -10,6 +10,8 @@ Bug Bullet | Title
 **3** |  [RCE via Internal Access to Adminer Database Management by @CybitSec](/bullets/3.md)
 **4** |  [Facebook Email/phone disclosure using Binary search by NotRickyy](bullets/4.md)
 **5** |  [Multi Domain DOM Cross Site Scripting by @caffeinevulns](bullets/5.md)
+**6** |  [Google sites and exploiting same origin policy by @raushanraj](bullets/6.md)
+
 
 
 
